@@ -1,20 +1,20 @@
-# GoogleScholarToolkit
+# Google Scholar Toolkit
 
-这是一个独立的Google Scholar搜索工具，旨在帮助用户在不依赖CAMEL依赖项的情况下，搜索Google Scholar上的作者、论文以及获取相关引用信息。
+This is an independent Google Scholar search tool designed to help users search for authors, papers, and citation information on Google Scholar without relying on CAMEL dependencies[^2^].
 
-## 功能特点
-- 搜索Google Scholar上的作者信息
-- 搜索论文并获取论文详细信息
-- 获取特定论文的引用论文
-- 获取特定作者的出版物列表
-- 支持自定义请求超时时间和重试策略
+## Features
+- Search for author information on Google Scholar.
+- Search for papers and retrieve detailed paper information.
+- Get citing papers for a specific paper.
+- Retrieve publications for a specific author.
+- Support for custom request timeout and retry policy.
 
-## 安装依赖
-在使用该工具之前，请确保已安装以下Python库：
+## Installation
+Before using this tool, ensure you have the following Python libraries installed:
 - requests
 - beautifulsoup4
 - typing
 
-你可以通过以下命令安装这些依赖：
+You can install these dependencies using the following command:
 ```bash
 pip install requests beautifulsoup4
