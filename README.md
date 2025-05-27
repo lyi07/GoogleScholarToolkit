@@ -1,6 +1,6 @@
 # Google Scholar Toolkit
 
-This is an independent Google Scholar search tool designed to help users search for authors, papers, and citation information on Google Scholar without relying on CAMEL dependencies[^2^].
+This is an independent Google Scholar search tool designed to help users search for authors, papers, and citation information on Google Scholar without relying on CAMEL dependencies.
 
 ## Features
 - Search for author information on Google Scholar.
